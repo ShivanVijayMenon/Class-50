@@ -1,0 +1,81 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header {
+
+    background-color: grey;
+
+    display: flex;
+
+    flex-wrap: wrap-reverse;
+
+    justify-content: space-evenly;
+
+}
+
+.description {
+
+    background-color: darkgray;
+
+    display : flex;
+
+    justify-content: space-evenly;
+
+}
+
+.grid {
+
+    background-color: silver;
+
+    display: flex;
+
+    flex-wrap:wrap-reverse;
+
+    justify-content: space-evenly;
+
+}
+
+.item1 {
+
+    background-color: slategray;
+
+    display: flex;
+
+    justify-content:center ;
+
+}
+
+.item2 {
+
+    background-color: gainsboro;
+
+    display : flex;
+
+    justify-content: flex-start;
+
+}
+
+.item3 {
+
+    background-color: whitesmoke ;
+
+    display : flex;
+
+    justify-content: stretch ;
+
+}
+
+.social {
+
+    background-color: lightslategray;
+
+    display : flex;
+
+    justify-content: flex-end;
+
+}
